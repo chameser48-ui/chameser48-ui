@@ -13,3 +13,7 @@
 
 ---
 *“即便高数虐我千百遍，我待机械如初恋。”*
+---
+### 🏭 我的数字工坊 (My Workshop)
+- 🧊 [点击这里查看我的 3D 作品展厅 (My Mechanical Models)](https://github.com/chameser48-ui/My-Mechanical-Models)
+  - *里面有我亲手画的机械零件，支持网页端 3D 在线旋转预览！*
